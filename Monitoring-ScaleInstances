@@ -4,3 +4,6 @@ For scale up/down we can use ELB and autoscaling, when the load increases it wil
 from the ami, in case load is low as per defined threshold it will scale down the instance.
 
 For config management we are using Chef.
+
+https://54.202.199.50/   --web node where code deployed
+54.148.119.200   --where cookbook have wriiten and doing entiore stuff
